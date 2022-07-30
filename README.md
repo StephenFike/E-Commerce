@@ -21,6 +21,10 @@ Clone the repository then run ```npm i``` to install dependencies.
 ## Usage
 To run this app, run ```npm start``` from the command line and use a program like Insomnia to test your routes.
 
+## Screenshot and Video
+![App screenshot]()
+You can view the video demonstration by clicking [here!](https://drive.google.com/file/d/1RNRYoxH9JE20Ln1got2JWO0L6mCQDpPP/view)
+
 ## Questions
 If you have any questions you can reach me here:  
 Github: [StephenFike](https://github.com/StephenFike)  
